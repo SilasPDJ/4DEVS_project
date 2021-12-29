@@ -15,7 +15,7 @@
 
     1. [ ] \# df[0].to_excel("football.xlsx", str(\_\_yearcont), index=False)
 
-        - ~~somente assim não é possível escrever várias ambas diferentes~~
+        - ~~somente assim não é possível escrever várias sheets diferentes~~
 
     1. [x] \# xwriter = pd.ExcelWriter('myworkbook.xlsx', engine='xlsxwriter')
     1. [x] df.to_excel(xwriter, sheet_name=yearcont)

@@ -19,3 +19,7 @@
 
     1. [x] \# xwriter = pd.ExcelWriter('myworkbook.xlsx', engine='xlsxwriter')
     1. [x] df.to_excel(xwriter, sheet_name=yearcont)
+
+### **pandas** at vs lot
+
+#### https://stackoverflow.com/questions/28757389/pandas-loc-vs-iloc-vs-at-vs-iat

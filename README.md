@@ -13,7 +13,7 @@
 
 1. \# df and yearcont are in loop
 
-    1. [] \# df[0].to_excel("football.xlsx", str(\_\_yearcont), index=False)
+    1. [ ] \# df[0].to_excel("football.xlsx", str(\_\_yearcont), index=False)
 
         - somente assim não é possível escrever várias ambas diferentes...
 
